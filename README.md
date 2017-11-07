@@ -1,12 +1,13 @@
 # hotel_management
-Quản lý khách sạn
-Goal:
+Quản lý khách sạn:
+- Goal:
 
 - Người quản lý khách sạn.
 - Nhân viên bán hàng.
 - Nhân viên tiếp tân.
 - Khách hàng.
-Objectives:
+
+-Objectives:
 
 1. Quản lý thông tin phòng và khách sạn:
 - Tìm phòng trống và đặt phòng theo yêu cầu của khách
